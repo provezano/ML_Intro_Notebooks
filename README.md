@@ -79,3 +79,6 @@ Chapter 3: Unsupervised Learning and Preprocessing
 		- Robustness-based clustering metrics
 		- Qualitative Method
 	
+
+Chapter 4: Representing Data and Engineering Features
+Chapter 5: Model Evaluation and Improvement
